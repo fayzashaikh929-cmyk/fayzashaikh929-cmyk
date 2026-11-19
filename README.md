@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Fayza! 👋
 
-<!--
-**fayzashaikh929-cmyk/fayzashaikh929-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about software development, IoT, Artificial Intelligence, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering Student
+- 🌱 Currently learning Java, Python, Spring Boot and Machine Learning
+- 💡 Interested in Software Development, IoT and AI/ML
+- 🔭 Working on real-world engineering projects
+- 📫 Connect with me on LinkedIn
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, Java, C, SQL
+
+**Web Technologies:** HTML, CSS, JavaScript
+
+**Frameworks:** Spring Boot, React
+
+**Tools:** Git, GitHub, VS Code, STS, Arduino IDE
+
+**Areas of Interest:** IoT, Machine Learning, Software Development, Testing
+
+### 🚀 Featured Projects
+
+- IoT Air and Sound Pollution Monitoring System
+- IoT-Based Flood Early Warning System using Sensors and ML
+- Customer Loan Management System
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+
+⭐ Thanks for visiting my profile!
